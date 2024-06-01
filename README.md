@@ -1,6 +1,6 @@
 # chabakeaw_chan
 
-A new Flutter project.
+Project that learning to use flutter to make portfolio project for PC web and web on mobile devices.
 
 ## Getting Started
 
