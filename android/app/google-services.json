@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616728188000",
+    "project_id": "flutter-portfolio-dfe3e",
+    "storage_bucket": "flutter-portfolio-dfe3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616728188000:android:1f370465edc28ffa05df05",
+        "android_client_info": {
+          "package_name": "com.example.chabakeaw_chan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVnbZfRdJvkoGVQWUoK6RdSKuG0HTfNWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
